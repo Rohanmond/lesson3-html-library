@@ -17,7 +17,9 @@ body {
 }
 
 /* body h1 div class are selectors*/
-
+.margin-md{
+    margin: 2rem;
+}
 
 
 /**------- @container-----------**/
